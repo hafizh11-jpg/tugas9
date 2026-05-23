@@ -1,0 +1,11 @@
+[14:39:40] [CONFIG] Memuat 3 peer dari config.json
+[14:39:40] [SERVER] Mendengarkan di 194.0.153.185:5003
+[14:40:03] [SEARCH] Mencari 'makan' ke 2 peer...
+[14:40:03] [RESPONSE] ✘ File 'makan' tidak ada di 194.5.128.128:5002
+[14:40:03] [RESPONSE] ✘ File 'makan' tidak ada di 194.5.134.135:5001
+[14:40:20] [CONFIG] Memuat 3 peer dari config.json
+[14:40:20] [SERVER] Mendengarkan di 194.0.153.185:5003
+[14:41:48] [CONFIG] Memuat 3 peer dari config.json
+[14:41:48] [SERVER] Mendengarkan di 194.0.153.185:5003
+[14:44:32] [REQUEST] Query 'DataRiset.pdf' dari 194.5.134.135:54909
+[14:44:32] [REPLY] ✘ NOT FOUND → 'DataRiset.pdf'
